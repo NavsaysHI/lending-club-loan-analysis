@@ -49,16 +49,6 @@ https://public.tableau.com/views/LendingClubLoanPerformanceAnalysis/Dashboard1?:
 - Geographic distribution by US state (filled map)
 - Borrower profile by employment length
 
-## Repository Structure
-```
-├── python/
-│   └── lending_club_cleaning.ipynb
-├── sql/
-│   └── lending_club_queries.sql
-├── data/
-│   └── lending_club_trimmed.csv
-└── README.md
-```
 
 ## Author
 Navdeep Rao — [LinkedIn](https://linkedin.com/in/navdeep-rao-58504311a) | [Tableau Public](https://public.tableau.com/views/LendingClubLoanPerformanceAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
